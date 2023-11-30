@@ -1,3 +1,3 @@
-# karisuma_typing
+# カリスマタイピング
 
 ![カリスマタイピング](logo.png)
